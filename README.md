@@ -1,10 +1,6 @@
 ### US Bank Loan Analysis and Dashboard Creation 
 
 - **Interactive Online Dashboard**: You can test my dashboard directly here: https://app.powerbi.com/view?r=eyJrIjoiYWRkYzczNTgtODNmMS00MWU0LWIyNGItNjc5MTBjMmU3ZWQ2IiwidCI6IjY0ZTBjZTBjLWQyOWYtNDMyZS05MThiLTIwYzYyNmFjZTYwNCJ9
-  
-![Alt text](https://github.com/Laruline/2024_US_Bank_Loan_Analysis_PowerBI_SQLServer/blob/main/Dashboard1.JPG)
-![Alt text](https://github.com/Laruline/2024_US_Bank_Loan_Analysis_PowerBI_SQLServer/blob/main/Dashboard2.JPG)
-![Alt text](https://github.com/Laruline/2024_US_Bank_Loan_Analysis_PowerBI_SQLServer/blob/main/Dashboard3.JPG)
 - **Query Document**: [https://github.com/Laruline/2024_US_Bank_Loan_Analysis_PowerBI_SQLServer](https://github.com/Laruline/2024_US_Bank_Loan_Analysis_PowerBI_SQLServer/blob/main/Bank_Loan_Data_SQL_Document.pdf)
 
 - **Goal**: Provide a detailed and comprehensive dahsboard for accessing vital loan data and monitor trends and risks.     
@@ -15,3 +11,7 @@
 - **Skills**: DQL (Data Query Language), CTE, Power queries, DAX, data cleaning, data modeling, data processing, data visualizations and dashboard creation.
 - **Technology**: SQL Server, Power BI. 
 - **Results**: A user-friendly, comprehensive three-part dashbord showcasing the entire bank loan data. Easily navigated using custom page navigation menu.
+  
+![Alt text](https://github.com/Laruline/2024_US_Bank_Loan_Analysis_PowerBI_SQLServer/blob/main/Dashboard1.JPG)
+![Alt text](https://github.com/Laruline/2024_US_Bank_Loan_Analysis_PowerBI_SQLServer/blob/main/Dashboard2.JPG)
+![Alt text](https://github.com/Laruline/2024_US_Bank_Loan_Analysis_PowerBI_SQLServer/blob/main/Dashboard3.JPG)

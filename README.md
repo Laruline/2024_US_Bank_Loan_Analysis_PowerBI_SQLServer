@@ -3,6 +3,7 @@
 ![Alt text](https://github.com/Laruline/2024_US_Bank_Loan_Analysis_PowerBI_SQLServer/blob/main/Dashboard2.JPG)
 ![Alt text](https://github.com/Laruline/2024_US_Bank_Loan_Analysis_PowerBI_SQLServer/blob/main/Dashboard3.JPG)
 - **Code**: https://github.com/Laruline/2024_US_Bank_Loan_Analysis_PowerBI_SQLServer
+- **Interactive Online Dashboard**: https://app.powerbi.com/view?r=eyJrIjoiYWRkYzczNTgtODNmMS00MWU0LWIyNGItNjc5MTBjMmU3ZWQ2IiwidCI6IjY0ZTBjZTBjLWQyOWYtNDMyZS05MThiLTIwYzYyNmFjZTYwNCJ9
 - **Goal**: Provide a detailed and comprehensive dahsboard for accessing vital loan data and monitor trends and risks.     
 - **Description**: The dataset contains 23 columns of (public) sensitive data about US client loans from 2021. The project steps include: database creation, data loading, DQL, CTE,  queries documentation for safeproofing, Power BI connection, data cleaning, data modeling, data processing, power queries using DAX, visual creations and dashboard creation. This dashboard is made up of three parts:
     - Bank Loan Report Summary: Shows overall loan data and loan specifics in order to gain a comprehensive overview of lending operations and monitor loan performance. Filterable by loan purpose, loan grade and state.
